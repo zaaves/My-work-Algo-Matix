@@ -1,4 +1,4 @@
-🧠 AlgoMatix CRM
+# 🧠 AlgoMatix CRM
 
 AlgoMatix is a full-stack CRM and operations management platform designed to streamline business workflows, automate routine tasks, and improve team productivity through intelligent backend systems and real-time dashboards.
 
@@ -10,7 +10,9 @@ On the Server side, background services and schedulers handle document expiry tr
 
 Overall, AlgoMatix acts as a smart operations layer between business teams and data, reducing human effort and ensuring nothing falls through the cracks.
 
-🚀 Core Features
+---
+
+## 🚀 Core Features
 CRM & Operations
 
 Lead Management – Create, update, and track leads across their entire lifecycle.
@@ -41,7 +43,7 @@ Bulk Data Processing – Supports large data uploads and exports.
 
 High-performance APIs – Optimized REST APIs for real-time usage.
 
-👨‍💻 My Roles & Responsibilities
+## 👨‍💻 My Roles & Responsibilities
 
 In AlgoMatix, I worked primarily on backend systems, automation logic, and scalable APIs:
 
@@ -65,7 +67,7 @@ Ensured secure API access with middleware-based validation and role handling.
 
 Followed modular architecture and clean code practices for scalability and maintainability.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Frontend: React.js, Tailwind CSS
 
@@ -79,7 +81,7 @@ Automation: Node schedulers / Cron jobs
 
 Other Tools: REST APIs, Git/GitHub, Postman
 
-⚡ Key Engineering Highlights
+## ⚡ Key Engineering Highlights
 
 Built a fully automated operations pipeline using background jobs.
 
@@ -90,3 +92,39 @@ Designed APIs capable of handling 5,000+ records with low latency.
 Implemented real-world CRM workflows, not just CRUD operations.
 
 Focused on backend reliability, performance, and scalability.
+
+---
+
+## ⚡ Setup & Installation
+
+1. ©️ Clone the repo:
+   
+   ```bash
+   git clone https://github.com/yourusername/quick-mobile.git
+   cd quick-mobile
+
+2. 🔽 Install Dependencies:
+
+    ```bash
+    npm install
+
+3. 🔰 Start the  development server:
+   
+   ```bash
+   npm run dev
+
+---
+
+## ⚠️ Disclaimer  
+This project is a **conceptual/demo implementation**.  
+The **source code is not real** and is intended **only for presentation purposes**, not for production or official use.  
+
+---
+
+## 📸 Screenshots 
+
+
+<p align="center">
+  <img src="Assests/images/Customerside/sellbanner.png" alt="Logo" width="900"/>
+</p>
+
