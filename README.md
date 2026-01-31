@@ -152,3 +152,40 @@ The **source code is not real** and is intended **only for presentation purposes
 <p align="center">
   <img src="Assests/images/employees.png" alt="Logo" width="900"/>
 </p>
+
+
+---
+
+## 📌 Use Case
+
+AlgoMatix is ideal for:
+
+Operations teams
+
+Sales & lead management teams
+
+Support teams handling follow-ups
+
+Businesses managing expiring documents
+
+Any workflow requiring automation + tracking + reporting
+
+## ⚠️ Disclaimer
+
+This project represents a real-world inspired CRM system built for learning and demonstration.
+Sensitive business logic and credentials are not included.
+The repository showcases system design, backend engineering, and automation workflows for portfolio purposes.
+
+## 🧩 Why AlgoMatix is a Strong Project
+
+Unlike generic CRUD apps, AlgoMatix demonstrates:
+
+Real business automation
+
+Real backend systems
+
+Real operational workflows
+
+Real scalability problems
+
+Real engineering thinking
