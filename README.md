@@ -87,7 +87,7 @@ Built a fully automated operations pipeline using background jobs.
 
 Reduced manual tracking by introducing expiry-based automation logic.
 
-Designed APIs capable of handling 5,000+ records with low latency.
+Designed APIs capable of handling 19,000+ records with low latency.
 
 Implemented real-world CRM workflows, not just CRUD operations.
 
@@ -125,6 +125,30 @@ The **source code is not real** and is intended **only for presentation purposes
 
 
 <p align="center">
-  <img src="Assests/images/Customerside/sellbanner.png" alt="Logo" width="900"/>
+  <img src="Assests/images/dashboard.png" alt="Logo" width="900"/>
 </p>
 
+
+<p align="center">
+  <img src="Assests/images/ticktes.png" alt="Logo" width="900"/>
+</p>
+
+
+<p align="center">
+  <img src="Assests/images/companies.png" alt="Logo" width="900"/>
+</p>
+
+
+<p align="center">
+  <img src="Assests/images/technicians.png" alt="Logo" width="900"/>
+</p>
+
+
+<p align="center">
+  <img src="Assests/images/storedata.png" alt="Logo" width="900"/>
+</p>
+
+
+<p align="center">
+  <img src="Assests/images/employees.png" alt="Logo" width="900"/>
+</p>
